@@ -17,12 +17,12 @@ h1{
 p{
     text-align: justify;
 }
-.top-part{
-    margin-top: 100px;
-}
 .container{
     display: flex;
     margin: 40px auto;
+}
+#top-part{
+    margin-top: 100px;
 }
 .half-width{
     width: 50%;
@@ -40,7 +40,7 @@ p{
     text-align: left;
     padding: 20px 100px;
 }
-.green-text{
+.colorful-text{
     color: #FF5C58;
 }
 .top-heading{
